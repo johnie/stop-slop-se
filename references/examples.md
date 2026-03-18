@@ -1,59 +1,71 @@
-# Before/After Examples
+# Före/efter-exempel
 
-## Example 1: Throat-Clearing + Binary Contrast
+## Exempel 1: Upptakt + negationspivot
 
-**Before:**
-> "Here's the thing: building products is hard. Not because the technology is complex. Because people are complex. Let that sink in."
+**Före:**
+> `Här är grejen: ledarskap handlar inte om kontroll utan om tillit. Det är viktigt att förstå att kultur inte byggs i en workshop.`
 
-**After:**
-> "Building products is hard. Technology is manageable. People aren't."
+**Efter:**
+> `Ledarskap kräver tillit. Kultur formas av hur chefer fattar beslut och beter sig varje vecka.`
 
-**Changes:** Removed opener, binary contrast structure, and emphasis crutch. Direct statements.
-
----
-
-## Example 2: Filler + Unnecessary Reassurance
-
-**Before:**
-> "It turns out that most teams struggle with alignment. The uncomfortable truth is that nobody wants to admit they're confused. And that's okay."
-
-**After:**
-> "Teams struggle with alignment. Nobody admits confusion."
-
-**Changes:** Cut hedging ("most"), removed throat-clearing phrases, deleted permission-granting ending.
+**Ändringar:** Tog bort upptakt och negationspivot. Bytte abstrakt kulturprat mot konkret beteende.
 
 ---
 
-## Example 3: Business Jargon Stack
+## Exempel 2: Konsultjargong
 
-**Before:**
-> "In today's fast-paced landscape, we need to lean into discomfort and navigate uncertainty with clarity. This matters because your competition isn't waiting."
+**Före:**
+> `I en snabbföränderlig värld behöver vi som organisation möjliggöra lärande, bygga kultur och leverera värde i varje del av medarbetarresan.`
 
-**After:**
-> "Move faster. Your competition is."
+**Efter:**
+> `Marknaden ändras snabbt. Vi behöver lära oss fortare, fatta bättre beslut och göra jobbet lättare för folk.`
 
-**Changes:** Eliminated jargon entirely. Core message in six words.
-
----
-
-## Example 4: Dramatic Fragmentation
-
-**Before:**
-> "Speed. Quality. Cost. You can only pick two. That's it. That's the tradeoff."
-
-**After:**
-> "Speed, quality, cost—pick two."
-
-**Changes:** Single sentence. No performative emphasis.
+**Ändringar:** Skar bort jargong, employer-branding-språk och vaga abstraktioner.
 
 ---
 
-## Example 5: Rhetorical Setup
+## Exempel 3: Aktörslös passiv
 
-**Before:**
-> "What if I told you that the best teams don't optimize for productivity? Here's what I mean: they optimize for learning. Think about it."
+**Före:**
+> `Det har identifierats ett behov av tydligare ägarskap och ett beslut har fattats om att en ny struktur ska implementeras under Q3.`
 
-**After:**
-> "The best teams optimize for learning, not productivity."
+**Efter:**
+> `Ledningsgruppen såg att ingen ägde frågan. Därför inför de en ny struktur i Q3.`
 
-**Changes:** Direct claim. No rhetorical scaffolding.
+**Ändringar:** Namngav aktören, tog bort passiv form och ersatte `ägarskap` med faktiskt ansvar.
+
+---
+
+## Exempel 4: LinkedIn-predikan
+
+**Före:**
+> `Förändring. På riktigt. Det är när vi vågar kliva ur komfortzonen som magin händer.`
+
+**Efter:**
+> `Förändring kräver att någon provar ett nytt arbetssätt och står kvar när det skaver.`
+
+**Ändringar:** Tog bort dramatisk fragmentering, sloganrad och lånad självhjälpston.
+
+---
+
+## Exempel 5: Employer-branding-floskler
+
+**Före:**
+> `Hos oss är det högt i tak, vi är prestigelösa och våra medarbetare är vår viktigaste resurs.`
+
+**Efter:**
+> `Hos oss får du säga emot chefen, byta spår snabbt och be om hjälp utan att tappa ansiktet.`
+
+**Ändringar:** Bytte tre slitna fraser mot observerbara beteenden.
+
+---
+
+## Exempel 6: Tillväxtresa + onödig engelska
+
+**Före:**
+> `Vi har momentum just nu och söker talanger som vill vara med på vår tillväxtresa.`
+
+**Efter:**
+> `Vi växer snabbt och söker folk som vill sälja mer, bygga bättre produkter och ta ansvar tidigt.`
+
+**Ändringar:** Tog bort statusord, vag tillväxtretorik och engelskpåverkad ton.

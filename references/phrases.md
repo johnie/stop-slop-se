@@ -1,128 +1,118 @@
-# Phrases to Remove
+# Fraser att skära bort
 
-## Throat-Clearing Openers
+## Upptakter
 
-Remove these announcement phrases. State the content directly.
+Ta bort fraser som annonserar poängen i stället för att säga den.
 
-- "Here's the thing:"
-- "Here's what [X]"
-- "Here's this [X]"
-- "Here's that [X]"
-- "Here's why [X]"
-- "The uncomfortable truth is"
-- "It turns out"
-- "The real [X] is"
-- "Let me be clear"
-- "The truth is,"
-- "I'll say it again:"
-- "I'm going to be honest"
-- "Can we talk about"
-- "Here's what I find interesting"
-- "Here's the problem though"
+- `Här är grejen:`
+- `Sanningen är att`
+- `Det visar sig att`
+- `Låt oss vara tydliga`
+- `Om vi ska vara ärliga`
+- `Det är viktigt att förstå att`
+- `Kan vi prata om`
+- `När det kommer till`
+- `I en tid där`
 
-Any "here's what/this/that" construction is throat-clearing before the point. Cut it and state the point.
+Om du kan ta bort inledningen utan att meningen tappar betydelse ska den bort.
 
-## Emphasis Crutches
+## Meta-kommentarer
 
-These add no meaning. Delete them.
+Texten ska röra sig framåt, inte kommentera sig själv.
 
-- "Full stop." / "Period."
-- "Let that sink in."
-- "This matters because"
-- "Make no mistake"
-- "Here's why that matters"
+- `Här är varför`
+- `Låt oss dyka in`
+- `I den här texten`
+- `Som vi ska se`
+- `Det är värt att notera`
+- `Med det sagt`
+- `Jag vill utforska`
+- `Låt mig guida dig genom`
+- `I det här inlägget`
 
-## Business Jargon
+## Konsultjargong
 
-Replace with plain language.
+Byt till vanlig svenska eller skriv ut den konkreta handlingen.
 
-| Avoid | Use instead |
-|-------|-------------|
-| Navigate (challenges) | Handle, address |
-| Unpack (analysis) | Explain, examine |
-| Lean into | Accept, embrace |
-| Landscape (context) | Situation, field |
-| Game-changer | Significant, important |
-| Double down | Commit, increase |
-| Deep dive | Analysis, examination |
-| Take a step back | Reconsider |
-| Moving forward | Next, from now |
-| Circle back | Return to, revisit |
-| On the same page | Aligned, agreed |
+| Undvik | Skriv hellre |
+|--------|--------------|
+| värdedriven | styrd av tydliga mål, tydlig med vad som är viktigt |
+| agil | snabb, iterativ, med korta beslutscykler |
+| leverera värde | göra nytta, lösa ett problem, öka intäkterna |
+| bygga kultur | ändra beteenden, sätta normer, leda på ett visst sätt |
+| möjliggöra | göra möjligt, hjälpa någon att |
+| resa (om förändring) | förändring, arbete, omställning |
+| ta höjd för | planera för, räkna med |
+| skapa förutsättningar | ge tid, pengar, mandat eller stöd |
+| transformation | förändring, omställning |
+| skala upp | växa, utöka |
+| momentum | fart, framdrift, medvind |
+| robust | stabil, tålig, hållbar |
+| innovativ | ny, bättre, ovanlig |
+| disruptiv | omvälvande, beskriv effekten |
+| framåtlutad | offensiv, tidig, beskriv beteendet |
+| proaktiv | förebyggande, i förväg |
+| holistisk | samlad, övergripande |
+| sömlös | enkel, utan avbrott |
+| ägarskap | ansvar |
 
-## Adverbs
+## Arbetslivsfloskler
 
-Kill all adverbs. No -ly words. No softeners, no intensifiers, no hedges.
+De här fraserna låter ofta som employer-branding eller LinkedIn-kopia. Byt dem mot observerbara beteenden.
 
-Specific offenders:
+- `högt i tak`
+- `vi är som en familj`
+- `vi är prestigelösa`
+- `vi levererar värde`
+- `bygga kultur`
+- `kulturresa`
+- `medarbetarna är vår viktigaste resurs`
+- `vi hör vad ni säger`
+- `talang`
+- `work/life-balance`
+- `hybriden är här för att stanna`
+- `det nya normala`
 
-- "really"
-- "just"
-- "literally"
-- "genuinely"
-- "honestly"
-- "simply"
-- "actually"
-- "deeply"
-- "truly"
-- "fundamentally"
-- "inherently"
-- "inevitably"
-- "interestingly"
-- "importantly"
-- "crucially"
+## Vaga upphöjare
 
-Also cut these filler phrases:
+De här låter stora men säger lite om inget konkret följer.
 
-- "At its core"
-- "In today's [X]"
-- "It's worth noting"
-- "At the end of the day"
-- "When it comes to"
-- "In a world where"
-- "The reality is"
+- `framtidens ledarskap`
+- `göra skillnad`
+- `göra skillnad på riktigt`
+- `skapa långsiktigt värde`
+- `frigöra potential`
+- `ta nästa nivå`
+- `stärka konkurrenskraften`
+- `driva transformation`
+- `i en snabbföränderlig värld`
 
-## Meta-Commentary
+## Förstärkare och mjukgörare
 
-Remove self-referential asides. The essay should move, not announce its own structure.
+De här orden är inte förbjudna i sig, men de är ofta slask. Behåll dem bara om de ändrar betydelsen.
 
-- "Hint:"
-- "Plot twist:" / "Spoiler:"
-- "You already know this, but"
-- "But that's another post"
-- "X is a feature, not a bug"
-- "Dressed up as"
-- "The rest of this essay explains..."
-- "Let me walk you through..."
-- "In this section, we'll..."
-- "As we'll see..."
-- "I want to explore..."
+- `verkligen`
+- `faktiskt`
+- `egentligen`
+- `helt enkelt`
+- `ärligt talat`
+- `på riktigt`
+- `bokstavligen`
+- `i grunden`
+- `fundamentalt`
+- `otroligt`
+- `väldigt`
 
-## Performative Emphasis
+## Onödig engelska
 
-False intimacy or manufactured sincerity:
+Använd inte engelska ord bara för att de signalerar status.
 
-- "creeps in"
-- "I promise"
-- "They exist, I promise"
+- `all hands on deck`
+- `join the rocketship`
+- `high performance culture`
+- `people first`
+- `thought leadership`
+- `best practice`
+- `game changer`
 
-## Telling Instead of Showing
-
-Announcing difficulty or significance rather than demonstrating it:
-
-- "This is genuinely hard"
-- "This is what leadership actually looks like"
-- "This is what X actually looks like"
-- "actually matters"
-
-## Vague Declaratives
-
-Sentences that announce importance without naming the specific thing. Kill these.
-
-- "The reasons are structural"
-- "The implications are significant"
-- "This is the deepest problem"
-- "The stakes are high"
-- "The consequences are real"
-
-If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
+Svensk sakprosa blir nästan alltid bättre när du väljer ett svenskt ord eller skriver ut vad du menar.

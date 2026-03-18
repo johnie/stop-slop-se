@@ -1,134 +1,105 @@
-# Structures to Avoid
+# Strukturer att undvika
 
-## Binary Contrasts
+## Negationspivoter
 
-These create false drama. State the point directly.
+De här mallarna låter smarta men känns snabbt färdiga och mekaniska.
 
-| Pattern | Problem |
+| Mönster | Problem |
 |---------|---------|
-| "Not because X. Because Y." / "Not because X, but because Y." | Telegraphed reversal |
-| "[X] isn't the problem. [Y] is." | Formulaic reframe |
-| "The answer isn't X. It's Y." | Predictable pivot |
-| "It feels like X. It's actually Y." | Setup/reveal cliche |
-| "The question isn't X. It's Y." | Rhetorical misdirection |
-| "Not X. But Y." / "not X, it's Y" / "isn't X, it's Y" | Mechanical contrast |
-| "It's not this. It's that." | Same formula, different words |
-| "stops being X and starts being Y" | False transformation arc |
-| "doesn't mean X, but actually Y" | Negation-then-assertion crutch |
-| "is about X but not Y" | False distinction |
-| "not just X but also Y" | Additive hedge |
+| `Det handlar inte om X utan om Y.` | Förutsägbar omramning |
+| `Frågan är inte om, utan hur.` | Tom ledningsklyscha |
+| `X är inte problemet. Y är det.` | Mekanisk kontrast |
+| `Inte bara X utan också Y.` | Additiv utfyllnad |
+| `Det här är ingen förändring. Det är en förbättring.` | Retorisk kosmetika |
 
-**Instead:** State Y directly. "The problem is Y." "Y matters here." Drop the negation entirely.
+**Skriv hellre:** Säg Y direkt.
 
-## Negative Listing
+## LinkedIn-predikan
 
-Listing what something is *not* before revealing what it *is*. A rhetorical striptease.
+Den här rytmen låter mer som scenisk självbild än som sakprosa.
 
-| Pattern | Problem |
+| Mönster | Problem |
 |---------|---------|
-| "Not a X... Not a Y... A Z." | Dramatic buildup through negation |
-| "It wasn't X. It wasn't Y. It was Z." | Same structure, past tense |
+| `Tre korta meningar. En poäng. En moral.` | Tillverkad tyngd |
+| `Förändring. På riktigt.` | Konstgjord djupkänsla |
+| `Det är då magin händer.` | Slogan i stället för innehåll |
+| `Ledarskap handlar om att våga ...` följt av sentens | Predikoton |
 
-**Instead:** State Z. The reader doesn't need the runway.
+**Skriv hellre:** Beskriv situationen, beslutet eller handlingen utan slutkläm.
 
-## Dramatic Fragmentation
+## Aktörslös svenska
 
-Sentence fragments for emphasis read as manufactured profundity.
+AI och företagstexter gömmer gärna människorna bakom språket.
 
-| Pattern | Problem |
+| Mönster | Problem |
 |---------|---------|
-| "[Noun]. That's it. That's the [thing]." | Performative simplicity |
-| "X. And Y. And Z." | Staccato drama |
-| "This unlocks something. [Word]." | Artificial revelation |
+| `Det har identifierats ett behov ...` | Ingen ansvarig syns |
+| `Arbete sker löpande ...` | Ingen gör jobbet |
+| `Frågan hanteras just nu ...` | Vem hanterar den? |
+| `Dialogen landade i ...` | Dialoger fattar inga beslut |
+| `Omställningen kräver ...` | Någon kräver något av någon |
+| `Resan fortsätter ...` | Förändring blir kuliss |
 
-**Instead:** Complete sentences. Trust content over presentation.
+**Skriv hellre:** Namnge chefen, teamet, bolaget eller personen.
 
-## Rhetorical Setups
+## Passiv form som döljer ansvar
 
-These announce insight rather than deliver it.
+Svensk passiv är inte alltid fel. Den blir svag när den döljer vem som agerade.
 
-| Pattern | Problem |
-|---------|---------|
-| "What if [reframe]?" | Socratic posturing |
-| "Here's what I mean:" | Redundant preview |
-| "Think about it:" | Condescending prompt |
-| "And that's okay." | Unnecessary permission |
-
-**Instead:** Make the point. Let readers draw conclusions.
-
-## Formulaic Constructions
-
-| Pattern | Problem |
-|---------|---------|
-| "By the time X, I was Y." | Narrative template |
-| "X that isn't Y" | Indirect. Say "X is broken" |
-
-## False Agency
-
-Giving inanimate things human verbs. Complaints don't "become" fixes. Bets don't "live or die." Decisions don't "emerge." A person does something to make those things happen. AI loves this because it avoids naming the actor.
-
-| Pattern | Problem |
-|---------|---------|
-| "a complaint becomes a fix" | The complaint did nothing. Someone fixed it. |
-| "a bet lives or dies in days" | Bets don't have lifespans. Someone kills the project or ships it. |
-| "the decision emerges" | Decisions don't emerge. Someone decides. |
-| "the culture shifts" | Cultures don't shift on their own. People change behavior. |
-| "the conversation moves toward" | Conversations don't move. Someone steers. |
-| "the data tells us" | Data sits there. Someone reads it and draws a conclusion. |
-| "the market rewards" | Markets don't reward. Buyers pay for things. |
-
-**Instead:** Name the human. "The team fixed it that week" beats "the complaint becomes a fix." If no specific person fits, use "you" to put the reader in the seat.
-
-## Narrator-from-a-Distance
-
-Floating above the scene instead of putting the reader in it.
-
-| Pattern | Problem |
-|---------|---------|
-| "Nobody designed this." | Disembodied observation |
-| "This happens because..." | Lecturer voice |
-| "This is why..." | Same |
-| "People tend to..." | Armchair sociologist |
-
-**Instead:** Put the reader in the room. "You don't sit down one day and decide to..." beats "Nobody designed this."
-
-## Passive Voice
-
-Every sentence needs a subject doing something. Passive voice hides the actor and drains energy.
-
-| Pattern | Fix |
+| Mönster | Fix |
 |---------|-----|
-| "X was created" | Name who created it |
-| "It is believed that" | Name who believes it |
-| "Mistakes were made" | Name who made them |
-| "The decision was reached" | Name who decided |
+| `Det beslutades att ...` | Skriv vem som beslutade |
+| `En ny struktur implementeras i Q3.` | Skriv vem som inför den |
+| `Målet kommunicerades tydligt.` | Skriv vem som kommunicerade det |
+| `Det har tagits fram ett förslag.` | Skriv vem som tog fram det |
 
-**Instead:** Find the actor. Put them at the front of the sentence.
+**Skriv hellre:** Behåll passiv bara när aktören verkligen är oviktig.
 
-## Sentence Starters to Avoid
+## Nominaliseringar och abstraktioner
 
-| Pattern | Fix |
-|---------|-----|
-| Sentences starting with What, When, Where, Which, Who, Why, How | Restructure. Lead with the subject or the verb. |
-| Paragraphs starting with "So" | Start with content |
-| Sentences starting with "Look," | Remove |
+När verben blir substantiv tappar texten fart och ansvar.
 
-Wh- openers become a crutch. "What makes this hard is..." becomes "The constraint is..." or better, name the specific constraint.
-
-## Rhythm Patterns
-
-| Pattern | Fix |
-|---------|-----|
-| Three-item lists | Use two items or one |
-| Questions answered immediately | Let questions breathe or cut them |
-| Every paragraph ends punchily | Vary endings |
-| Em-dashes | Remove. Use commas or periods. No em dashes at all. |
-| Staccato fragmentation | Don't stack short punchy sentences |
-| "Not always. Not perfectly." | Hedging disguised as reassurance |
-
-## Word Patterns
-
-| Pattern | Problem |
+| Mönster | Problem |
 |---------|---------|
-| Lazy extremes (every, always, never, everyone, everybody, nobody) | False authority. Use specifics instead of sweeping claims. |
-| All adverbs (-ly words, "really," "just," "literally," "genuinely," "honestly," "simply," "actually") | Empty emphasis. See phrases.md for full list. |
+| `en förflyttning inom ledarskap` | Oklart vad någon faktiskt ska göra |
+| `möjliggörande av lärande` | Dubbel dimma |
+| `fokus på samverkan kring prioritering` | För många abstrakta lager |
+| `aktivering av organisationens förmåga` | Ingen människa syns |
+
+**Skriv hellre:** Gör substantiv till verb. `Vi prioriterar ihop.` `Cheferna tränar nya arbetssätt.`
+
+## Prepositionsstackar
+
+Företagssvenska älskar långa kedjor som flyttar läsaren bort från saken.
+
+| Mönster | Problem |
+|---------|---------|
+| `inom ramen för arbetet med` | Omväg |
+| `kopplat till utvecklingen av` | Vagt samband |
+| `utifrån behovet av` | Abstrakt startsträcka |
+| `med fokus på möjliggörandet av` | Rent dimspråk |
+
+**Skriv hellre:** Kortare mening med ett tydligt verb.
+
+## Översatt engelska
+
+I svensk AI-prosa märks ofta engelskt tänk även när orden är svenska.
+
+| Mönster | Problem |
+|---------|---------|
+| Direktöversatta öppningar som `Här är varför` | Låter importerade |
+| För mycket engelska statusord | Signalerar mer än de betyder |
+| Kort sloganrad som slutpoäng | Engelsk LinkedIn-kadens |
+
+**Skriv hellre:** Skriv om meningen tills den låter naturlig på svenska.
+
+## Rytmproblem
+
+| Mönster | Fix |
+|---------|-----|
+| Tretakter som `snabbt, enkelt och effektivt` | Kapa eller variera |
+| Varje stycke slutar med en sentens | Låt vissa stycken bara landa |
+| Fråga som besvaras direkt | Stryk frågan eller låt den stå öppen |
+| Enradiga moralstycken | Skriv ut innehållet i stället |
+
+Problemet är inte siffran tre i sig. Problemet är putsad, säljig symmetri.

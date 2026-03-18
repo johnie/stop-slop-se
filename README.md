@@ -1,22 +1,24 @@
-# Stop Slop
+# Stop Slop SE
 
-A skill for removing AI tells from prose.
+A skill for removing Swedish AI tells from prose, with a focus on corporate and Linkedin Swedish.
 
 <img width="3840" height="2160" alt="G-Yg4RVbIAAhVxW" src="https://github.com/user-attachments/assets/902afc15-1f40-4a9d-af24-8cd67afb8ebf" />
 
 ## What this is
 
-AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) to catch and remove them.
+Swedish AI prose has its own habits: consultant jargon, employer-branding floskler, translated-English scaffolding, vague uplift language, actor-hiding passives, and polished LinkedIn cadence.
 
-## Skill Structure
+`stop-slop-se` keeps the core anti-slop workflow from the original skill, but rewrites the heuristics for native Swedish use. The frontmatter and README stay in English for trigger reach. The skill body and reference material are in Swedish.
+
+## Skill structure
 
 ```
-stop-slop/
-├── SKILL.md              # Core instructions
+stop-slop-se/
+├── SKILL.md              # Core instructions (Swedish body, English frontmatter)
 ├── references/
-│   ├── phrases.md        # Phrases to remove
-│   ├── structures.md     # Structural patterns to avoid
-│   └── examples.md       # Before/after transformations
+│   ├── phrases.md        # Swedish phrases and jargon to cut
+│   ├── structures.md     # Swedish structural patterns to avoid
+│   └── examples.md       # Native Swedish before/after examples
 ├── README.md
 └── LICENSE
 ```
@@ -25,19 +27,21 @@ stop-slop/
 
 **Claude Code:** Add this folder as a skill.
 
-**Claude Projects:** Upload `SKILL.md` and reference files to project knowledge.
+**Claude Projects:** Upload `SKILL.md` and the reference files to project knowledge.
 
-**Custom instructions:** Copy core rules from `SKILL.md`.
+**Custom instructions:** Copy the core rules from `SKILL.md`.
 
-**API calls:** Include `SKILL.md` in your system prompt. Reference files load on demand.
+**API calls:** Include `SKILL.md` in your system prompt. Load the reference files on demand.
 
 ## What it catches
 
-**Banned phrases** - Throat-clearing openers, emphasis crutches, business jargon, all adverbs, vague declaratives, meta-commentary. See `references/phrases.md`.
+**Swedish floskler** - Throat-clearing openers, meta-signposting, vague uplift, boosters, and corporate filler. See `references/phrases.md`.
 
-**Structural clichés** - Binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency, narrator-from-a-distance voice, passive voice. See `references/structures.md`.
+**Corporate/LinkedIn jargon** - Consultant vocabulary, employer-branding clichés, and unnecessary English that signals status more than meaning. See `references/phrases.md`.
 
-**Sentence-level rules** - No Wh- sentence starters, no em dashes, no staccato fragmentation, no lazy extremes, active voice required.
+**Structural clichés** - Negation pivots, actor-hiding passives, abstract-subject fog, noun-heavy abstraction, polished triads, and LinkedIn sermon rhythm. See `references/structures.md`.
+
+**Sentence-level rewrites** - Name the actor, cut translated-English cadence, and replace vague claims with concrete Swedish prose.
 
 ## Scoring
 
@@ -45,17 +49,21 @@ Rate 1-10 on each dimension:
 
 | Dimension | Question |
 |-----------|----------|
-| Directness | Statements or announcements? |
-| Rhythm | Varied or metronomic? |
-| Trust | Respects reader intelligence? |
-| Authenticity | Sounds human? |
-| Density | Anything cuttable? |
+| Idiomatic Swedish | Does it sound like natural Swedish prose? |
+| Concreteness | Are the people, actions, and decisions clear? |
+| Agency | Can you tell who did what? |
+| Jargon load | How much consultant fog is left? |
+| LinkedIn salesiness | Does it read like a person or a brand post? |
 
 Below 35/50: revise.
 
+## Design choice
+
+This skill is not a literal translation of the English version. Swedish needs different pressure points. The biggest tells are usually not English-style adverbs or em dashes; they are jargon, abstract nouns, passive responsibility-dodging, and translated-English cadence.
+
 ## Author
 
-[Hardik Pandya](https://hvpandya.com)
+[Johnie Hjelm](https://johnie.se)
 
 ## License
 
