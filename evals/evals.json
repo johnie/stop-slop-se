@@ -1,0 +1,41 @@
+{
+  "skill_name": "stop-slop-se",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Skriv om den här svenska LinkedIn-texten så att den låter som en vettig person och inte som AI eller managementjargong. Behåll budskapet men kapa flosklerna. Text: 'Här är grejen: ledarskap handlar inte om kontroll utan om tillit. I en snabbföränderlig värld behöver vi bygga kultur, frigöra potential och leverera värde i varje del av medarbetarresan. Det är då magin händer.'",
+      "expected_output": "En omskriven svensk LinkedIn-text som tar bort upptakt, konsultjargong och predikoton och ersätter dem med konkret, idiomatisk svenska.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Jag skriver copy till vår karriärsida. Skriv om den här texten på svenska utan employer-branding-floskler: 'Hos oss är det högt i tak, vi är prestigelösa och våra medarbetare är vår viktigaste resurs. Vi är på en spännande tillväxtresa och söker talanger som vill göra skillnad på riktigt i ett snabbföränderligt landskap.'",
+      "expected_output": "En kort svensk omskrivning som ersätter slitna arbetslivsfloskler med observerbara beteenden och konkreta villkor.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Skriv om det här interna strategimeddelandet så att det blir tydligt vem som gör vad: 'Det har identifierats ett behov av tydligare ägarskap kopplat till prioriteringsarbetet. Inom ramen för transformationen kommer ett nytt arbetssätt att implementeras under Q3 för att möjliggöra snabbare beslutsfattande.'",
+      "expected_output": "En svensk omskrivning som namnger aktörer, tar bort passiv och nominaliseringar och gör budskapet konkret.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Gör om den här vd-uppdateringen till rak svensk sakprosa utan LinkedIn-kadens: 'Förändring. På riktigt. Vi går nu in i nästa fas av vår resa. Frågan är inte om vi ska ställa om, utan hur snabbt vi kan göra det tillsammans. Med det sagt är jag stolt över det momentum vi har byggt.'",
+      "expected_output": "En svensk vd-text som behåller innehållet men tar bort sloganmeningar, negationspivot och vag tillväxtretorik.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Klassificera varje mening nedan som 'ok' eller 'slop' och ge en kort motivering på svenska. Meningar: 1) 'Vi växer snabbt och anställer två utvecklare i april.' 2) 'I en snabbföränderlig värld är det viktigare än någonsin att bygga kultur.' 3) 'Ledningsgruppen beslutade i måndags att lägga ned projektet.' 4) 'Det har tagits fram ett nytt ramverk för att möjliggöra samverkan.' 5) 'Hos oss får du säga emot chefen.' 6) 'Det är då magin händer.' 7) 'Teamet kortade svarstiden från fyra dagar till en.' 8) 'Vi är värdedrivna och framåtlutade i allt vi gör.'",
+      "expected_output": "En svensk klassificering rad för rad som markerar slop och förklarar med kategorier som jargong, passiv, vaghet eller LinkedIn-ton.",
+      "files": []
+    },
+    {
+      "id": 6,
+      "prompt": "Läs texten och markera vilka delar som bör skrivas om för att de låter AI-genererade eller för mycket LinkedIn. Ge sedan en kort omskrivning. Text: 'Sanningen är att vår framgångsresa inte handlar om produkter utan om människor. Genom ett holistiskt arbetssätt och ett tydligt fokus på att skapa förutsättningar för lärande kan vi ta nästa nivå. Som vi ska se är detta framtidens ledarskap.'",
+      "expected_output": "En svensk analys som pekar ut de mest sloppiga delarna och en kort omskriven version som låter naturlig och konkret.",
+      "files": []
+    }
+  ]
+}
